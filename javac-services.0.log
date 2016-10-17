@@ -1,0 +1,137 @@
+INFO	?	main	2016-10-17T14:52:03.423Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	main	2016-10-17T14:52:03.634Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingAccountsApi.java]
+INFO	?	main	2016-10-17T14:52:03.741Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to C:\Users\M6BF8~1.SAM\AppData\Local\Temp\classpath329630991102324829.txt
+INFO	?	main	2016-10-17T14:52:08.488Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2016-10-17T14:52:08.490Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	InitialIndex	2016-10-17T14:52:08.835Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\test\java\cequens\client\api\MessagingAccountsApiTest.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.848Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\test\java\cequens\client\api\MessagingAuthenticationApiTest.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.860Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\test\java\cequens\client\api\MessagingDestinationsDiscoveryApiTest.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.873Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\test\java\cequens\client\api\MessagingDestinationsGroupingApiTest.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.877Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\test\java\cequens\client\api\MessagingDestinationsVerificationApiTest.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.889Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\test\java\cequens\client\api\MessagingPricingApiTest.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.909Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\test\java\cequens\client\api\MessagingSMSApiTest.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.915Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingAccountsApi.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.956Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingAuthenticationApi.java
+INFO	?	InitialIndex	2016-10-17T14:52:08.994Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingDestinationsDiscoveryApi.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.059Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingDestinationsGroupingApi.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.168Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingDestinationsVerificationApi.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.211Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingPricingApi.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.248Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingSMSApi.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.298Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\ApiCallback.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.300Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\ApiClient.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.343Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\ApiException.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.345Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\ApiResponse.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.347Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\auth\ApiKeyAuth.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.359Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\auth\Authentication.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.361Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\auth\HttpBasicAuth.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.371Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\auth\OAuth.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.373Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\auth\OAuthFlow.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.391Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\Configuration.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.391Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\JSON.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.391Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\AccbalanceRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.391Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\AccbalanceResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.469Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\CountryPricingByMobileNoRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.532Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\CountryPricingByMobileNoResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.579Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\CountryPricingRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.594Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\CountryPricingResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.610Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\CreateGroupReq.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.610Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\Error.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.626Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\GroupSubscribtionRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.626Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\GroupSubscribtionResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.626Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\InternalError.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.626Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\MasterAcc.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.641Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\MessageDetails.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.704Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\MessageDetailsRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.704Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\MessagesCountRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.777Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\MessagesCountResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.781Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\NetworkDetails.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.834Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\NumberDiscoveryDetails.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.916Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\NumberDiscoveryRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.948Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\PasscodeStatus.java
+INFO	?	InitialIndex	2016-10-17T14:52:09.979Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\PasscodeStatusRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.057Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\PasscodeStatusResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.073Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SendSMSIDs.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.151Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SendSMSReq.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.252Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SendSMSRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.337Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SendSMSResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.337Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SendSMStoGroupReq.java
+INFO	?	main	2016-10-17T14:52:10.407Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to C:\Users\M6BF8~1.SAM\AppData\Local\Temp\classpath8517197021859719112.txt
+INFO	?	InitialIndex	2016-10-17T14:52:10.416Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SignInReq.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.425Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SignInRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.430Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SignInResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.449Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SubAcc.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.452Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\SubscribeInGroupReq.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.455Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\UnsubscribeFromGroupReq.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.471Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\VerifyNumberReq.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.486Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\VerifyNumberRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.486Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\VerifyNumberResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.502Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\VerifyPasscodeReq.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.502Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\VerifyPasscodeRes.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.542Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\model\VerifyPasscodeResData.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.542Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\Pair.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.542Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\ProgressRequestBody.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.542Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\ProgressResponseBody.java
+INFO	?	InitialIndex	2016-10-17T14:52:10.542Z	org.javacs.SymbolIndex$1#parseAll	Index d:\CequensAPI\java\src\main\java\cequens\client\StringUtil.java
+INFO	?	main	2016-10-17T14:52:14.858Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2016-10-17T14:52:14.860Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2016-10-17T14:52:17.788Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingAccountsApi.java]
+INFO	?	main	2016-10-17T14:52:20.511Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingAuthenticationApi.java]
+INFO	?	main	2016-10-17T14:52:20.515Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to C:\Users\M6BF8~1.SAM\AppData\Local\Temp\classpath7143419326827054127.txt
+INFO	?	main	2016-10-17T14:52:24.267Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2016-10-17T14:52:24.267Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2016-10-17T14:52:24.661Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingDestinationsGroupingApi.java]
+INFO	?	main	2016-10-17T14:52:24.665Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to C:\Users\M6BF8~1.SAM\AppData\Local\Temp\classpath8732341215366927318.txt
+INFO	?	main	2016-10-17T14:52:28.888Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2016-10-17T14:52:28.889Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2016-10-17T14:52:33.869Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingAccountsApi.java]
+INFO	?	main	2016-10-17T14:52:36.492Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingAuthenticationApi.java]
+INFO	?	main	2016-10-17T14:52:37.903Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingDestinationsGroupingApi.java]
+INFO	?	main	2016-10-17T14:52:38.688Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingDestinationsVerificationApi.java]
+INFO	?	main	2016-10-17T14:52:38.693Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to C:\Users\M6BF8~1.SAM\AppData\Local\Temp\classpath5914235372087545059.txt
+INFO	?	main	2016-10-17T14:52:43.222Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2016-10-17T14:52:43.225Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2016-10-17T14:52:43.392Z	org.javacs.JavaLanguageServer#doLint	Lint [d:\CequensAPI\java\src\main\java\cequens\client\api\MessagingSMSApi.java]
+INFO	?	main	2016-10-17T14:52:43.394Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to C:\Users\M6BF8~1.SAM\AppData\Local\Temp\classpath1282018694979370470.txt
+INFO	?	main	2016-10-17T14:52:47.035Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2016-10-17T14:52:47.036Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+SEVERE	?	main	2016-10-17T14:52:47.047Z	org.javacs.Main#main	null
+com.sun.tools.javac.util.Abort
+	at com.sun.tools.javac.comp.Check.completionError(Check.java:285)
+	at com.sun.tools.javac.comp.Attr.attribTree(Attr.java:604)
+	at com.sun.tools.javac.comp.Attr.attribType(Attr.java:658)
+	at com.sun.tools.javac.comp.Attr.attribType(Attr.java:651)
+	at com.sun.tools.javac.comp.MemberEnter.attribImportType(MemberEnter.java:836)
+	at com.sun.tools.javac.comp.MemberEnter.visitImport(MemberEnter.java:556)
+	at com.sun.tools.javac.tree.JCTree$JCImport.accept(JCTree.java:571)
+	at com.sun.tools.javac.comp.MemberEnter.memberEnter(MemberEnter.java:435)
+	at com.sun.tools.javac.comp.MemberEnter.memberEnter(MemberEnter.java:447)
+	at com.sun.tools.javac.comp.MemberEnter.visitTopLevel(MemberEnter.java:526)
+	at com.sun.tools.javac.tree.JCTree$JCCompilationUnit.accept(JCTree.java:518)
+	at com.sun.tools.javac.comp.MemberEnter.memberEnter(MemberEnter.java:435)
+	at com.sun.tools.javac.comp.MemberEnter.complete(MemberEnter.java:1038)
+	at com.sun.tools.javac.code.Symbol.complete(Symbol.java:560)
+	at com.sun.tools.javac.code.Symbol$ClassSymbol.complete(Symbol.java:1024)
+	at com.sun.tools.javac.comp.Enter.complete(Enter.java:497)
+	at com.sun.tools.javac.comp.Enter.main(Enter.java:475)
+	at com.sun.tools.javac.main.JavaCompiler.enterTrees(JavaCompiler.java:985)
+	at org.javacs.JavacHolder.compile(JavacHolder.java:193)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:337)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:303)
+	at org.javacs.JavaLanguageServer.access$1000(JavaLanguageServer.java:31)
+	at org.javacs.JavaLanguageServer$1.lambda$didOpen$14(JavaLanguageServer.java:193)
+	at java.util.Optional.ifPresent(Optional.java:159)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:188)
+	at io.typefox.lsapi.services.transport.server.LanguageServerEndpoint._doAccept(LanguageServerEndpoint.xtend:198)
+	at io.typefox.lsapi.services.transport.server.LanguageServerEndpoint.doAccept(LanguageServerEndpoint.xtend:194)
+	at io.typefox.lsapi.services.transport.server.LanguageServerEndpoint.accept(LanguageServerEndpoint.xtend:114)
+	at io.typefox.lsapi.services.transport.server.LanguageServerEndpoint.accept(LanguageServerEndpoint.xtend)
+	at io.typefox.lsapi.services.transport.AbstractLanguageEndpoint.handleMessage(LanguageEndpoint.xtend:67)
+	at io.typefox.lsapi.services.transport.AbstractLanguageEndpoint.lambda$connect$4(LanguageEndpoint.xtend:61)
+	at io.typefox.lsapi.services.json.StreamMessageReader$1.apply(StreamMessageReader.java:46)
+	at io.typefox.lsapi.services.json.StreamMessageReader$1.apply(StreamMessageReader.java:44)
+	at io.typefox.lsapi.services.json.StreamMessageReader.handleMessage(StreamMessageReader.xtend:128)
+	at io.typefox.lsapi.services.json.StreamMessageReader.listen(StreamMessageReader.xtend:61)
+	at io.typefox.lsapi.services.transport.AbstractLanguageEndpoint.connect(LanguageEndpoint.xtend:60)
+	at org.javacs.Main.run(Main.java:150)
+	at org.javacs.Main.main(Main.java:69)
+
