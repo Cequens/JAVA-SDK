@@ -26,7 +26,7 @@ Add this dependency to your project's POM:
 
 ```xml
 <dependency>
-    <groupId>io.cequens</groupId>
+    <groupId>cequens</groupId>
     <artifactId>cequens-java-client</artifactId>
     <version>1.0.0</version>
     <scope>compile</scope>
@@ -58,10 +58,10 @@ Please follow the [installation](#installation) instruction and execute the foll
 
 ```java
 
-import io.cequens.client.*;
-import io.cequens.client.auth.*;
-import io.cequens.client.model.*;
-import io.cequens.client.api.MessagingAccountsApi;
+import cequens.client.*;
+import cequens.client.auth.*;
+import cequens.client.model.*;
+import cequens.client.api.MessagingAccountsApi;
 
 import java.io.File;
 import java.util.*;
